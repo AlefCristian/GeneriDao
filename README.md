@@ -1,3 +1,3 @@
 # GenericDao
-Just a little orm
-Apenas um simples orm com o intuido de aprendizagem de Orientação a Objetos, padroes de projetos utilizando interfaces e classes abstratas.
+
+Apenas um simples ORM com o intuido de aprendizagem de Orientação a Objetos; padroẽs de projetos, uso de interfaces e classes abstratas.
